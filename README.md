@@ -9,4 +9,4 @@ Data persistence with MySQL and JPA
 Clean separation of concerns using MVC
 
 Demo:
-A demo video showing the functionality and user interface of the system is available in the repository under the file: employee-system-video.mp4.
+A demo video showing the functionality and user interface of the system is available in the repository under the file: employee-system-video.mp4. As well as some images showing the web application.
